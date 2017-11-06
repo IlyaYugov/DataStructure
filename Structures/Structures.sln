@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\Structures.csproj", "{B72D125D-63FE-48F8-8454-A592DD28D9B2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "Structures\TestConsole.csproj", "{B72D125D-63FE-48F8-8454-A592DD28D9B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStructures", "MyStructures\MyStructures.csproj", "{D8BE701C-DF23-4940-8DEE-886E61B9D209}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B72D125D-63FE-48F8-8454-A592DD28D9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B72D125D-63FE-48F8-8454-A592DD28D9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B72D125D-63FE-48F8-8454-A592DD28D9B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BE701C-DF23-4940-8DEE-886E61B9D209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BE701C-DF23-4940-8DEE-886E61B9D209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BE701C-DF23-4940-8DEE-886E61B9D209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BE701C-DF23-4940-8DEE-886E61B9D209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
